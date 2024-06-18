@@ -1,5 +1,5 @@
 ---
-title:Про Блог
+title: Про Блог
 description: 'Hugo'
 author: HradilSerhii
 ---
