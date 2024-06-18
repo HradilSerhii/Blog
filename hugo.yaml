@@ -125,7 +125,7 @@ params:
     TileColor: "#2d89ef"
   socialIcons:
     - name: github
-      url: https://github.com/hugo-sid
+      url: https://github.com/HradilSerhii
     - name: twitter
       url: https://twitter.com
     - name: Rss
