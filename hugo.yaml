@@ -58,7 +58,7 @@ Languages:
       dateFormat: ""
       rssFeedDescription: summary
       author:
-        avatar: avatar.jpg
+        avatar: avatar.png
         intro: Awesome hugo blog
         name: Sidharth R
         description:
