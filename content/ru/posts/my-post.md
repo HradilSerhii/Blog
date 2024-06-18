@@ -1,1 +1,0 @@
-![alt text](https://github.com/HradilSerhii/Blog/blob/833661b832fa36f50a9dc1f0b17bf340e60c7603/assets/img/samurai%20digital%20wallpaper%20(1920x1080).jpg)
