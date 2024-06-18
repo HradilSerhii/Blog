@@ -107,7 +107,7 @@ Languages:
       dateFormat: ""
       rssFeedDescription: summary
       author:
-        avatar: avatar.jpg
+        avatar: avatar.png
         intro: Превосходный hugo блог
         name: Sidharth R
         description:
