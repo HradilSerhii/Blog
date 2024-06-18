@@ -1,5 +1,5 @@
 ---
 title:Про Блог
-description: 'Мой первый блог на Hugo'
+description: 'Hugo'
 author: HradilSerhii
 ---
