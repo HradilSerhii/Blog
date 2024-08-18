@@ -6,4 +6,4 @@ description: Напиши мне
 type: page
 menu: main
 ---
-{{< form-contact action="hradil.serhii@gmail.com"  >}}
+{{< form-contact action="<https://hradilserhii.xyz>"  >}}
