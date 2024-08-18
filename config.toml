@@ -1,5 +1,5 @@
 title = "HradilBlog"
-baseURL = "https://hradilserhii.xyz/blog"
+baseURL = "https://github.com/HradilSerhii/Blog"
 languageCode = "ru-ru"
 theme = "ananke"
 resourceDir = "../resources"
